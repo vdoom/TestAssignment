@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/texture/circles">
+        <file alias="yellow4.png">arkanoid/yellow4.png</file>
+    </qresource>
+</RCC>
